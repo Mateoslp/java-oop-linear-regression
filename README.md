@@ -11,7 +11,7 @@ El proyecto cumple con todos los requerimientos de la práctica:
 
 - **Integrantes:** Juan Fernando Gómez Rivas e Ikker Mateo Gil Jordán
 - **Repositorio GitHub:** https://github.com/Mateoslp/java-oop-linear-regression
-- **Video en YouTube (≤ 10 min):** _(pegar URL del video)_
+- **Video en YouTube (≤ 10 min):** https://youtu.be/kNlTLDcKH90
 
 > En el video deben presentarse, explicar el código, las estrategias de desarrollo y mostrar una ejecución del programa.
 
